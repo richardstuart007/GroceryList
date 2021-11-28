@@ -1,5 +1,5 @@
 {
-  "name": "13tut",
+  "name": "grocerylist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -37,16 +37,7 @@
     ]
   },
   "devDependencies": {},
-  "description": "✅ [Check out my YouTube Channel with all of my tutorials](https://www.youtube.com/DaveGrayTeachesCode).",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gitdagray/react_fetch_api_data.git"
-  },
   "author": "Richard",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/gitdagray/react_fetch_api_data/issues"
-  },
-  "homepage": "https://github.com/gitdagray/react_fetch_api_data#readme"
+  "license": "ISC"
 }
